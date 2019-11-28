@@ -4,7 +4,6 @@
 
 <div class="jumbotron">
 		<h1 class="text-center"> Welcome to CS157A Project</h1>
-		<h1 class="text-center"> <?php display_message();?></h1>
 	</div>
 	<div class="container-fluid">
 	<div class="row">
